@@ -1,3 +1,9 @@
+
+
+
+
+ /*--Perfil - Login - Creación - Recuperación--*/
+
 .carousel-item {
   height: 65vh;
   min-height: 300px;
@@ -8,16 +14,10 @@
   background-size: cover;
 }
 
-.d-block {
-	height: 100%;
-    width: 100%;
-}
-
-
-
 .carousel-caption > p {
 	font-size: 20px;
 }
+
 
 
 .formA {
@@ -33,4 +33,5 @@
 	margin: 1%;
 	text-align: center;
 }
+
 
