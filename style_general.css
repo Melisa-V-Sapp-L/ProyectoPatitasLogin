@@ -32,9 +32,33 @@
 
 
 .img-fluid {
+	margin: 2% 0% 2% 0%;
 	border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;	
-
 }
 
+#Adopt1 {
+	margin: 2% 0% 0% 8%;
+	padding:1% 1% 1% 1%;
+}
+
+#Adopt2 {
+	padding:10% 0% 10% 0%;
+}
+
+
+/*--Donacionnes--*/
+
+#row {
+	margin: 2% 2% 2% 2%;
+	
+}
+
+#col {
+	margin: 2% 2% 2% 2%;
+	padding: 1% 1% 1% 1%;
+	color: white;
+	background-color: black;
+	opacity: .7;
+}

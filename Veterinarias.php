@@ -47,6 +47,62 @@
 
 <!--Veterinarias-->
 
+<div id="row" class="row">
+  <div id="col" class="col">
+    <div class="clearfix">
+      <img src="image/images (12).jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="...">
+
+      <p>
+    A paragraph of placeholder text. We're using it here to show the use of the clearfix class. We're adding quite a few meaningless phrases here to demonstrate how the columns interact here with the floated image.
+      </p>
+    </div>
+
+    <div class="clearfix">
+      <img src="image/images (5).jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="...">
+
+      <p>
+    A paragraph of placeholder text. We're using it here to show the use of the clearfix class. We're adding quite a few meaningless phrases here to demonstrate how the columns interact here with the floated image.
+      </p>
+    </div>
+
+    <div class="clearfix">
+      <img src="image/images (46).jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="...">
+
+      <p>
+    A paragraph of placeholder text. We're using it here to show the use of the clearfix class. We're adding quite a few meaningless phrases here to demonstrate how the columns interact here with the floated image.
+      </p>
+    </div>
+
+ </div>
+
+  <div id="col" class="col">
+    <div class="clearfix">
+      <img src="image/images (4).jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="...">
+
+      <p>
+    A paragraph of placeholder text. We're using it here to show the use of the clearfix class. We're adding quite a few meaningless phrases here to demonstrate how the columns interact here with the floated image.
+      </p>
+    </div>
+
+    <div class="clearfix">
+      <img src="image/images (2).jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="...">
+
+      <p>
+    A paragraph of placeholder text. We're using it here to show the use of the clearfix class. We're adding quite a few meaningless phrases here to demonstrate how the columns interact here with the floated image.
+      </p>
+    </div>
+
+    <div class="clearfix">
+      <img src="image/images (3).jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="...">
+
+      <p>
+    A paragraph of placeholder text. We're using it here to show the use of the clearfix class. We're adding quite a few meaningless phrases here to demonstrate how the columns interact here with the floated image.
+      </p>
+    </div>
+
+ </div>
+
+</div> 
   
 <!--Fin-->
 </div>

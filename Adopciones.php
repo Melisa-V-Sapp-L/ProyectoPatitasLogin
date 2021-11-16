@@ -47,7 +47,7 @@
 
 <!--Adopción y dar en adopción-->
 
-<div class="container">
+<div id="Adopt1" class="container">
   <div class="row">
 
     <div class="col order-last">
@@ -68,7 +68,7 @@
          </div>
       </div>
 
-      <div class="col order-last">
+      <div id="Adopt2" class="col order-last">
         <img src="image/images (27).jpg" class="img-fluid">
       </div>
 

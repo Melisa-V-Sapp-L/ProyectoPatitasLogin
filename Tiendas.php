@@ -46,7 +46,23 @@
 <!--Aquí termina el menu-->
 
 <!--Tiendas-->
+<div id="row" class="row">
+  <div id="col" class="col">
 
+
+
+    
+
+ </div>
+  <div id="col" class="col">
+
+
+   
+
+    
+
+ </div>
+</div> 
   
 <!--Fin-->
 </div>
