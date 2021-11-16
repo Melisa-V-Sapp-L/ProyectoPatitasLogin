@@ -47,9 +47,19 @@
 
 <!--Donaciones-->
 <div id="row" class="row">
-  <div id="col" class="col">
+  <div  class="col">
 
-<div id="" class="col-md-6 offset-md-3"><p class="h3">¿Cuanto deseas donar?</p><p class="h5">Los montos están expresados en Pesos Argentinos (ARS)</p><br>
+<div id="" class="col-md-6 offset-md-3">
+
+  <p class="h3">¿Cuanto deseas donar?</p><p class="h5">Los montos están expresados en Pesos Argentinos (ARS)</p><br>
+
+      <div id="" class="input-group mb-3">
+        <div class="input-group-text">
+           <input class="form-check-input mt-0" type="checkbox" value="100.00" aria-label="Checkbox for following text input">
+        </div>
+          <span class="input-group-text">$</span>
+          <span class="input-group-text">100.00-</span>
+      </div>
 
       <div id="" class="input-group mb-3">
         <div class="input-group-text">
@@ -91,16 +101,25 @@
           <input type="text" aria-label="Last name" class="form-control">
       </div>
 
-      <img src="image/images (15).jpg" class="img-fluid" alt="...">
+      <div id="" class="d-grid gap-2">
+             <img src="image/images (15).jpg" class="img-fluid" alt="...">
+      </div>
+ 
     </div>
 
     
 
  </div>
-  <div id="col" class="col">
+  <div  class="col">
+    
+   <div id="" class="col-md-6 offset-md-3">
+
+    <div id="" class="d-grid gap-2">
+             <img src="image/images (43).jpg" class="img-fluid" alt="...">
+    </div>
 
 
-   <div id="" class="col-md-6 offset-md-3"><p class="h4">¿Con cuanta frecuencia deseas donar?</p><br>
+    <p class="h4">¿Con cuanta frecuencia deseas donar?</p><br>
 
       <div id="" class="form-check">
         <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
@@ -117,9 +136,12 @@
       </div>
 
       <div id="" class="d-grid gap-2">
-            <a href="Donar.php" class="btn btn-light"><p class="h5">Donar</p></a>
-             <img src="image/images (43).jpg" class="img-fluid" alt="...">
-             <img src="image/images (19).jpg" class="img-fluid" alt="...">
+            <a href="Donar.php" class="btn btn-dark"><p class="h5">Donar</p></a>
+             
+      </div>
+      <div id="" class="d-grid gap-2">
+            
+             <img src="image/images (35).jpg" class="img-fluid">
       </div>
 
  </div>

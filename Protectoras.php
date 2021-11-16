@@ -47,19 +47,29 @@
 
 <!--Protectoras-->
 <div id="row" class="row">
-  <div id="col" class="col">
+  <div id="col1" class="col">
 
-
-
-    
+    <div class="row">
+        <div class="col-auto"><a href=""> <img src="image/Protectora2.jpg" class="img-fluid" alt="..."></a></div>
+        <div class="col-auto"><a href=""> <img src="image/Protectora0.png" class="img-fluid" alt="..."></a></div>
+      </div>
+      <div class="row">
+        <div class="col-auto"><a href=""> <img src="image/Protectora3.jpg" class="img-fluid" alt="..."></a></div>
+        <div class="col-auto"><a href=""> <img src="image/Protectora2.png" class="img-fluid" alt="..."></a></div>
+      </div>
 
  </div>
-  <div id="col" class="col">
+  <div id="col1" class="col">
 
+    <div class="row">
+        <div class="col-auto"><a href=""> <img src="image/Protectora4.jpg" class="img-fluid" alt="..."></a></div>
+        <div class="col-auto"><a href=""> <img src="image/Protectora4.png" class="img-fluid" alt="..."></a></div>
+      </div>
+      <div class="row">
+        <div class="col-auto"><a href=""> <img src="image/Protectora1.jpg" class="img-fluid" alt="..."></a></div>
+        <div class="col-auto"><a href=""> <img src="image/Protectora3.png" class="img-fluid" alt="..."></a></div>
+      </div>
 
-   
-
-    
 
  </div>
 </div>  

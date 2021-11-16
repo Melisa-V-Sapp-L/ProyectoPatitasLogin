@@ -62,3 +62,24 @@
 	background-color: black;
 	opacity: .7;
 }
+
+/*--Tiendas--*/
+
+.Tiendas1 {
+	margin: 1% 1% 1% 1%;
+	padding: 1% 1% 1% 1%;
+	
+}
+
+#PetShopDesc {
+	margin: 15% 0% 2% 0%;
+	padding: 25% 0% 2% 0%;
+	
+}
+
+/*--Protectoras--*/
+
+#col1 {
+	margin: 2% 2% 2% 2%;
+	padding: 1% 1% 1% 1%;
+}
